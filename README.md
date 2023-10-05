@@ -23,3 +23,19 @@ Clone the repository:
 
    ```bash
    git clone https://github.com/MuhammadAsadSattar/Intrusion-Detection-Project
+
+**Install required dependencies:** 
+1. pip install -r requirements.txt
+2. Configure and modify the system files as needed.
+3. Download and prepare the datasets.
+4. Train ML models and update the signatures if required.
+5. Run the IDS using the provided commands and the scripts needed.
+
+#### Data Sources:
+For effective intrusion detection, datasets are used for network traffic, which includes both normal and malicious traffic are :
+1.
+2.
+3.
+
+
+
