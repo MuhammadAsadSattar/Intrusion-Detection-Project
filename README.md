@@ -31,7 +31,8 @@ Clone the repository:
 4. Train ML models and update the signatures if required.
 5. Run the IDS using the provided commands and the scripts needed.
 
-#### Data Sources:
+
+### Data Sources:
 For effective intrusion detection, datasets are used for network traffic, which includes both normal and malicious traffic are :
 1.
 2.
