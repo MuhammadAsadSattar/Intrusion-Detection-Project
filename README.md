@@ -16,7 +16,7 @@ Uses machine learning methods to detect anomalies in the systems and learn about
 **Alerting and Reporting:** 
 The system enables rapid response and generates warnings and reports of identified intrusions.
 
-##### Usage:
+## Usage:
 The following steps show how to use network analysis and intrusion detection systems:
 1. Configure the settings by including the network interfaces and network detection thresholds in files.
 2. Start the system by using the scripts.
