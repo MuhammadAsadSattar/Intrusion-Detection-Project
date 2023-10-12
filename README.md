@@ -43,9 +43,7 @@ Clone the repository:
 
 ### Data Sources:
 For effective intrusion detection, datasets are used for network traffic, which includes both normal and malicious traffic are :
-1.
-2.
-3.
+https://www.unb.ca/cic/datasets/ids-2018.html
 
 
 
